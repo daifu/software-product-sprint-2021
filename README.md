@@ -1,3 +1,6 @@
+# SPS Program
+This is just a test program. Dont use it.
+
 # Google Software Product Sprint
 
 This repo contains the projects you'll work on throughout SPS.
